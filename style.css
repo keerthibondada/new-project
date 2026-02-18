@@ -16,7 +16,7 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 20px 50px;
-    background: #fdfdfd;
+    background: #fdfafa;
 }
 .nav-pilla{
     border:2px solid rgb(7, 7, 7);
@@ -53,11 +53,19 @@ body {
     text-align: center;
     color: #0c0c0c;
     background-color: #f5f2f2;
+    border-radius: 20px;
+    height: 400px;
+   
+}
+.blogs h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
 }
 
 .subtitle {
     margin: 15px 0 40px;
     color: #080808;
+    margin-top: 100px;
 }
 
 .blog-container {
